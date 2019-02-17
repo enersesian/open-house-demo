@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Right
+  - Left
+  - Bottom
+  - Top
+  - Forward
+  - Back
+  - Mole
+  - Cyl
+  - First
+  - Vessel
+  - Crown
+  - Goal
+  - Ship
+  - Obstacle
+  - Rock
+  - ScrollLever
+  - Scaled
+  - Dial
+  - DistanceLever
+  - ExecuteButton
+  - Dial
+  - DistanceLever
+  - ExecuteButton
+  - Dial
+  - DeleteButton
+  - AddButton
+  - ClearButton
+  - ExecuteCompileButton
+  - SimShip
+  - Blockade
+  - HelpButton
+  - HelpButton
+  - IntroStartButton
+  - IntroQuitButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - RG_Piece
+  - Ground
+  - GridNode
+  - Planet
+  - NotMars
+  - Scaled
+  - RadarIcon
+  - Window
+  - WarpHole
+  - ConsoleControl
+  - SpaceShip
+  - Blockade
+  - PlayerRadarIcon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 0476dc449930bbf45b0619abd5afb935
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ClearButton
+    100002: ClearButtonBase
+    100004: ComputerScreen
+    100006: //RootNode
+    100008: Cube
+    100010: Cube.001
+    100012: DeleteButton
+    100014: DeleteButtonBase
+    100016: Dial
+    100018: DialBase
+    100020: ExecuteCompileButton
+    100022: ExecuteCompileButtonBase
+    100024: HelpButton
+    100026: HelpButtonBase
+    100028: LeverBase
+    100030: LeverHandle
+    100032: LeverLeg
+    100034: LeverLeg.001
+    100036: Radar
+    100038: Ship
+    400000: ClearButton
+    400002: ClearButtonBase
+    400004: ComputerScreen
+    400006: //RootNode
+    400008: Cube
+    400010: Cube.001
+    400012: DeleteButton
+    400014: DeleteButtonBase
+    400016: Dial
+    400018: DialBase
+    400020: ExecuteCompileButton
+    400022: ExecuteCompileButtonBase
+    400024: HelpButton
+    400026: HelpButtonBase
+    400028: LeverBase
+    400030: LeverHandle
+    400032: LeverLeg
+    400034: LeverLeg.001
+    400036: Radar
+    400038: Ship
+    2100000: Material.020
+    2100002: Material.021
+    2100004: Material.013
+    2100006: Material.018
+    2100008: Material.012
+    2100010: Material.004
+    2100012: Material.003
+    2100014: Material.011
+    2100016: Material.009
+    2100018: Material
+    2100020: Material.002
+    2100022: Material.010
+    2100024: Material.007
+    2100026: Material.019
+    2100028: Material.015
+    2100030: Material.014
+    2100032: Material.016
+    2100034: Material.017
+    2100036: Material.008
+    2100038: Material.005
+    2100040: Material.006
+    2300000: ClearButton
+    2300002: ClearButtonBase
+    2300004: ComputerScreen
+    2300006: Cube
+    2300008: Cube.001
+    2300010: DeleteButton
+    2300012: DeleteButtonBase
+    2300014: Dial
+    2300016: DialBase
+    2300018: ExecuteCompileButton
+    2300020: ExecuteCompileButtonBase
+    2300022: HelpButton
+    2300024: HelpButtonBase
+    2300026: LeverBase
+    2300028: LeverHandle
+    2300030: LeverLeg
+    2300032: LeverLeg.001
+    2300034: Radar
+    2300036: Ship
+    3300000: ClearButton
+    3300002: ClearButtonBase
+    3300004: ComputerScreen
+    3300006: Cube
+    3300008: Cube.001
+    3300010: DeleteButton
+    3300012: DeleteButtonBase
+    3300014: Dial
+    3300016: DialBase
+    3300018: ExecuteCompileButton
+    3300020: ExecuteCompileButtonBase
+    3300022: HelpButton
+    3300024: HelpButtonBase
+    3300026: LeverBase
+    3300028: LeverHandle
+    3300030: LeverLeg
+    3300032: LeverLeg.001
+    3300034: Radar
+    3300036: Ship
+    4300000: Cube.001
+    4300002: Cube
+    4300004: DialBase
+    4300006: Dial
+    4300008: ClearButtonBase
+    4300010: ClearButton
+    4300012: DeleteButton
+    4300014: DeleteButtonBase
+    4300016: ExecuteCompileButtonBase
+    4300018: ExecuteCompileButton
+    4300020: HelpButton
+    4300022: HelpButtonBase
+    4300024: Radar
+    4300026: LeverHandle
+    4300028: LeverBase
+    4300030: LeverLeg.001
+    4300032: LeverLeg
+    4300034: ComputerScreen
+    4300036: Ship
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 95352d4e4111c9f4295f18e8c2f6809f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 2f82dce6579f826419ac3db018eaf040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: b4553674ba2bf3e4b8a327436c01e63b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: f5ca342ba84fc7049a9fee259f3b842f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: f9b9f3674b232724ba2f9d332869674f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: ac6863a2db0bff74a9abf8079e37c574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 1716841f1cba120468f7b90b4a900449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 63c5369c1779d1d4880914f3f786ed97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: e69e83f669b365f4e84aa1711ec77eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: b32772946ee2f134b94e36e5021b84d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 25fa3e0cbe81d424abfa8e1236ccf36a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 5f26978ea3fa8ae488b69d5243573aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 7d1dd9ee001607b4b9fc9214e1a47b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: abc9dba9598c16f44a005075fdf5ad90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 26a7ea7f0dc1e9b4da49210d3b5d58ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: ed6aba0dd24e097408a4694b5b8a46ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 34e9307bf43200c47901f8b437296951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: bf0c0dd6d52285940bad9e0704b842d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: 77eed6e5e86a3604ca87aa0c9a4b0de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.020
+    second: {fileID: 2100000, guid: ea8929e7b27da6247aa8de85a48b6feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.021
+    second: {fileID: 2100000, guid: 694da482e26525847aec31494828bba8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
